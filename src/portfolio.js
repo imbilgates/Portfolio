@@ -7,7 +7,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Bilgates',
-  role: 'Front Developer',
+  role: 'Front-End Developer',
   description:
     'My journey as a React developer is driven by a strong dedication to learning and improving. While studying for my Master\'s in Computer Applications at SRM IST Chennai, I am building my skills in React.js and Redux.js.',
   resume: 'https://drive.google.com/file/d/1lEoQg2j0LirX8C3wYZFvc-H0MvpPkX5W/view?usp=drivesdk',
