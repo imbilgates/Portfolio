@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import ArrowUpwardIcon from '@material-ui/icons/ArrowUpward'
 import './ScrollToTop.css'
+import { ArrowUpward } from '@mui/icons-material'
 
 const ScrollToTop = () => {
   const [isVisible, setIsVisible] = useState(false)
@@ -16,7 +16,7 @@ const ScrollToTop = () => {
   return isVisible ? (
     <div className='scroll-top'>
       <a href='#top' aria-label='top'>
-        <ArrowUpwardIcon fontSize='large' />
+        <ArrowUpward fontSize='large' />
       </a>
     </div>
   ) : null

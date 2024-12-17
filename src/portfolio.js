@@ -44,13 +44,17 @@ const projects = [
     sourceCode: 'https://github.com/imbilgates/Pokemon',
     livePreview: 'https://main--soft-malabi-ad4012.netlify.app/',
   },
+  {
+    name: 'CRUDsystem', 
+    description:
+      'I built a full-stack project using Spring Boot with REST API endpoints and Vite+React for the frontend, implementing CRUD operations to add, delete, update, and display employees.',
+    stack: ['Springboot', 'Java', 'vite+react', 'H2 Db', 'Javascript'],
+    sourceCode: 'https://github.com/imbilgates/CRUDsystem',
+    livePreview: 'https://imbilgates.github.io/CRUDsystem/',
+  },
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
-  'HTML',
-  'CSS',
   'JavaScript',
   'React',
   'Redux',
@@ -58,7 +62,7 @@ const skills = [
   'Bootstrap',
   'Git',
   'Java',
-  'Python'
+  'springboot'
 ]
 
 const contact = {

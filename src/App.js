@@ -8,23 +8,37 @@ import ScrollToTop from './components/ScrollToTop/ScrollToTop'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
 import './App.css'
+import { Route, Routes } from 'react-router-dom'
+import Admin from './components/Admin/Admin'
 
 const App = () => {
   const [{ themeName }] = useContext(ThemeContext)
 
   return (
     <div id='top' className={`${themeName} app`}>
-      <Header />
+      {/* Routes definition */}
+      <Routes>
+        {/* Main route for the portfolio (homepage) */}
+        <Route 
+          path="/Portfolio" 
+          element={
+            <>
+              <Header />
+              <main>
+                <About />
+                <Projects />
+                <Skills />
+                <Contact />
+              </main>
+              <ScrollToTop />
+              <Footer />
+            </>
+          } 
+        />
 
-      <main>
-        <About />
-        <Projects />
-        <Skills />
-        <Contact />
-      </main>
-
-      <ScrollToTop />
-      <Footer />
+        {/* Admin route */}
+        <Route path="/admin" element={<Admin />} />
+      </Routes>
     </div>
   )
 }

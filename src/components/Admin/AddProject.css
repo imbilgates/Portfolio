@@ -1,0 +1,83 @@
+/* AddProject.css */
+
+/* Wrapper for the form */
+.add-project-form-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0; /* Set the background color only for the form container */
+  padding: 0;
+  margin: 0;
+}
+
+/* Wrapper for the form */
+.add-project-form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff; /* New background color for the form */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center; /* Center align the form content */
+}
+
+/* Style for each input field */
+.add-project-form input {
+  margin-bottom: 15px;
+  padding: 12px;
+  font-size: 16px;
+  border: 1px solid #ccc; /* Slightly lighter border */
+  border-radius: 5px;
+  background-color: #fafafa; /* Lighter background color for inputs */
+  outline: none;
+  transition: border-color 0.3s ease;
+}
+
+/* Focus styles for input fields */
+.add-project-form input:focus {
+  border-color: #5c6bc0; /* Color change on focus */
+  box-shadow: 0 0 5px rgba(92, 107, 192, 0.5);
+}
+
+/* Style for the submit button */
+.add-project-form button {
+  padding: 12px 20px;
+  font-size: 16px;
+  background-color: #5c6bc0; /* Button background color */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect for the button */
+.add-project-form button:hover {
+  background-color: #3f4b8f; /* Darker button color on hover */
+}
+
+/* Adding spacing for the form fields */
+.add-project-form input,
+.add-project-form button {
+  width: 100%;
+}
+
+.add-project-form input::placeholder {
+  color: #888;
+}
+
+/* Optional: Responsive design for smaller screens */
+@media (max-width: 600px) {
+  .add-project-form {
+    padding: 15px;
+  }
+
+  .add-project-form input,
+  .add-project-form button {
+    font-size: 14px;
+  }
+}
