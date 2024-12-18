@@ -26,7 +26,7 @@ const projects = [
       'Our Realtime Chat App uses React for the front-end, Express and Node.js for the back-end, and Socket.IO for real-time messaging.',
     stack: ['Firebase', 'JavaScript', 'React'],
     sourceCode: 'https://github.com/imbilgates/Chat-Application/',
-    livePreview: 'https://main--chat-application-socketio.netlify.app/',
+    livePreview: 'https://chatwebappbyreact.netlify.app/',
   },
   {
     name: 'Social-Media-App',
