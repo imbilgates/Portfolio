@@ -21,9 +21,17 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
+    name: 'Poll-Applicaion',
+    description:
+      'The Poll Application is a full-stack web app that enables users to create and participate in polls. It is built using Spring Boot and Java for the backend, with React and JavaScript powering the frontend with User interaction.',
+    stack: ['SpringBoot', "Java", 'JavaScript', 'React'],
+    sourceCode: 'https://github.com/imbilgates/PollApp/',
+    livePreview: 'https://pollwebapp.netlify.app/',
+  },
+  {
     name: 'Chat-Applicaion',
     description:
-      'Our Realtime Chat App uses React for the front-end, Express and Node.js for the back-end, and Socket.IO for real-time messaging.',
+      'Our Realtime Chat App uses React for the front-end, Firebase for the back-end, and Firebase Cloud for real-time messaging.',
     stack: ['Firebase', 'JavaScript', 'React'],
     sourceCode: 'https://github.com/imbilgates/Chat-Application/',
     livePreview: 'https://chatwebappbyreact.netlify.app/',
