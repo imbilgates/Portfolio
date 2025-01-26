@@ -9,7 +9,7 @@ const about = {
   name: 'Bilgates',
   role: 'Full Stack Developer',
   description:
-    'My journey as a React developer is driven by a strong dedication to learning and improMy journey as a MERN stack developer is fueled by a strong passion for learning and continuous improvement. While pursuing my Master\'s in Computer Applications at SRM IST Chennai, I am honing my skills in React.js, Redux.js, and backend development with Node.js and Express.js. I also have experience deploying applications using platforms like Netlify and Render',
+    'My journey as a MERN stack developer is driven by a strong passion for learning and improvement. While pursuing my Master's in Computer Applications at SRM IST Chennai, I am developing my skills in React.js, Redux.js, and backend development using Node.js and Express.js. I also have experience deploying applications on platforms like Netlify and Render.',
   resume: 'https://drive.google.com/file/d/16nLfc940UoItLFkYVGzU7EmUYc8NzmJU/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/Imbilgates',
