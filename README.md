@@ -1,12 +1,65 @@
-# React + Vite
+# 📌 **Bilgates M - Full Stack Developer**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌐 [Portfolio Website](https://imbilgates.github.io/Portfolio/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👤 **About Me**
 
-## Expanding the ESLint configuration
+🚀 *Passionate MERN stack developer with a continuous learning mindset.*
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Proficient in **React.js, Node.js, Express.js**
+- Backend expertise with **MongoDB & SQL**
+- Experience in deploying apps on **Netlify & Render**
+- Always building projects to enhance skills
+
+📄 **[Download Resume](https://drive.google.com/file/d/16nLfc940UoItLFkYVGzU7EmUYc8NzmJU/view?usp=sharing)**
+
+🔗 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/Imbilgates)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/imbilgates)
+
+---
+
+## 💻 **Projects**
+
+### 🔥 [DevDiscuss](https://devdiscuss.onrender.com)
+📌 *A collaborative Q&A platform similar to Stack Overflow.*  
+🛠️ **Tech Stack:** `MongoDB` | `Express.js` | `React` | `Node.js`  
+🔗 **[Source Code](https://github.com/imbilgates/devDiscuss)**
+
+### 🗳️ [Poll Application](https://pollwebapp.netlify.app/)
+📌 *Create and participate in online polls.*  
+🛠️ **Tech Stack:** `Spring Boot` | `Java` | `React` | `JavaScript`  
+🔗 **[Source Code](https://github.com/imbilgates/PollApp/)**
+
+### 💬 [Chat Application](https://chatwebappbyreact.netlify.app/)
+📌 *Real-time chat app powered by Firebase.*  
+🛠️ **Tech Stack:** `Firebase` | `JavaScript` | `React`  
+🔗 **[Source Code](https://github.com/imbilgates/Chat-Application/)**
+
+### 🏞️ [Social Media App](https://main--firebaseauth-project.netlify.app/)
+📌 *A platform to share images with secure authentication.*  
+🛠️ **Tech Stack:** `Firebase` | `JavaScript` | `React`  
+🔗 **[Source Code](https://github.com/imbilgates/Social-Media-Mini-Project/)**
+
+### 🔄 [CRUD System](https://imbilgates.github.io/CRUDsystem/)
+📌 *A full-stack CRUD application with REST API support.*  
+🛠️ **Tech Stack:** `Spring Boot` | `Java` | `Vite+React` | `H2 Database`  
+🔗 **[Source Code](https://github.com/imbilgates/CRUDsystem)**
+
+---
+
+## 🛠 **Skills**
+
+```
+JavaScript | TypeScript | React.js | Next.js | React Native 
+Node.js | Express.js | Spring Boot | Vite | Redux 
+MongoDB | MySQL | PostgreSQL | Firebase 
+TailwindCSS | Bootstrap | Material UI | Git
+```
+
+---
+
+## 📬 **Contact Me**
+📧 **Email:** [imbilgates@mail.com](mailto:imbilgates@mail.com)
