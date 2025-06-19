@@ -62,12 +62,12 @@ const projects = [
     livePreview: 'https://shopping-cart-8goq.onrender.com',
   },
   {
-    name: 'CRUDsystem',
+    name: 'Event Planner',
     description:
-      'I built a full-stack project using Spring Boot with REST API endpoints and Vite+React for the frontend, implementing CRUD operations to add, delete, update, and display employees.',
-    stack: ['Springboot', 'Java', 'vite+react', 'H2 Db', 'Javascript'],
-    sourceCode: 'https://github.com/imbilgates/CRUDsystem',
-    livePreview: 'https://imbilgates.github.io/CRUDsystem/',
+      'I developed a full-stack Event Planner application using Spring Boot for the backend and React for the frontend. The app allows users to create, view, edit, and delete events. It features responsive UI components built with MUI and Chakra UI for a seamless experience.',
+    stack: ['Spring Boot', 'React', 'MUI', 'Chakra UI'],
+    sourceCode: 'https://github.com/imbilgates/Event-Planner',
+    livePreview: 'https://event-planner-7kxy.onrender.com',
   },
 ]
 
@@ -81,8 +81,7 @@ const skills = [
   'Bootstrap',
   'Material UI',
   'Git',
-  'Java',
-  'Python',
+  'Spring boot',
 ]
 
 const contact = {
