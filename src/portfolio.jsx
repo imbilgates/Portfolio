@@ -11,7 +11,7 @@ const about = {
   description:
     'My journey as a MERN stack developer is driven by a strong passion for learning and improvement. As a fresher, I have developed skills in React.js and backend development with Node.js and Express.js. I am also gaining experience in deploying applications on platforms like Netlify and Render, and I am constantly working on creating projects to refine my abilities.',
   resume:
-    'https://drive.google.com/file/d/16nLfc940UoItLFkYVGzU7EmUYc8NzmJU/view?usp=sharing',
+    'https://drive.google.com/file/d/1x9KcsaGbqBCMjy72VcTLJsxUvD7l9lG7/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/Imbilgates',
     github: 'https://github.com/imbilgates',
