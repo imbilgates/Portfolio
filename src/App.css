@@ -4,23 +4,24 @@
     color: var(--clr-fg);
   }
   
-  .light {
-    --clr-bg: #23283e;
-    --clr-bg-alt: #2a2f4c;
-    --clr-fg: #ffffff;
-    --clr-fg-alt: #cdcdff;
-    --clr-primary: #90a0d9;
-    --shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
-    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
-  }
+.light {
+  --clr-bg: #e6e8f0;        /* Soft off-white background */
+  --clr-bg-alt: #f0f2f9;    /* Lighter alternative background */
+  --clr-fg: #4c6ef5;        /* Darker text color for better contrast */
+  --clr-fg-alt: #577d90;    /* Muted blue for secondary text or icons */
+
+  --clr-primary: #4c6ef5;   /* Subtle yet vibrant primary color (light blue) */
+  --shadow: rgba(0, 0, 0, 0.12) 0px 8px 32px 0px, rgba(0, 0, 0, 0.08) 0px 4px 6px 0px;  /* Softer shadow effect for elegance */
+}
+
   
   
   .dark {
     --clr-bg: #000000;
-    --clr-bg-alt: #090909;
-    --clr-fg: #7777a9;
+    --clr-bg-alt: #9d9df4;
+    --clr-fg: #000000;
     --clr-fg-alt: #9d9df4;
-    --clr-primary: #7188db;
+    --clr-primary: #00020a;
     --shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
       rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
   }

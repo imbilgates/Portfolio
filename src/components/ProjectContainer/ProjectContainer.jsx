@@ -7,7 +7,7 @@ const ProjectContainer = ({ project }) => (
   <div className='project'>
     {/* Project Header */}
     <div className='project__header'>
-      <h3>{project.name}</h3>
+      <h3>{project.name?.toUpperCase()}</h3>
     </div>
 
     {/* Project Description */}
