@@ -54,10 +54,10 @@ const projects = [
     livePreview: 'https://main--firebaseauth-project.netlify.app/',
   },
   {
-    name: 'E-commerce Shopping Cart',
+    name: 'E-commerce Cart',
     description:
       'A full-stack e-commerce application where users can browse products, add items to a cart, and place orders. Built with React and Redux on the frontend, and Node.js, Express.js, and MongoDB on the backend.',
-    stack: ['React', 'Redux', 'Node.js', 'Express.js', 'MongoDB'],
+    stack: ['React', 'Redux', 'Express.js', 'MongoDB'],
     sourceCode: 'https://github.com/imbilgates/ShopCart',
     livePreview: 'https://shopping-cart-8goq.onrender.com',
   },
