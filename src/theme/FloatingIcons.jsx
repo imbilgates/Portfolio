@@ -9,7 +9,9 @@ const icons = [
 
 const FloatingIcons = ({ children }) => {
   return (
-    <div className="relative min-h-screen bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900">
+<div className="relative min-h-screen bg-gradient-to-br from-gray-900 via-gray-900 to-black">
+
+
       {/* Background Icons */}
       <div className="fixed inset-0 overflow-hidden">
         {icons.map((icon, index) => (
